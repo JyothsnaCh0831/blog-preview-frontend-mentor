@@ -15,7 +15,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Get Here](https://github.com/JyothsnaCh0831/blog-preview-frontend-mentor)
-- Live Site URL: [View Here](https://github.io/JyothsnaCh0831/blog-preview-frontend-mentor)
+- Live Site URL: [View Here](https://jyothsnach0831.github.io/blog-preview-frontend-mentor/)
 
 ## My process
 
